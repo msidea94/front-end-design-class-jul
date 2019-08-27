@@ -1,4 +1,4 @@
-# 1회차
+# 1일차
 
 <br>
 
@@ -50,7 +50,7 @@
 
 <br>
 
-### 1. 벤치마킹 및 컨셉의도 전달
+### 1. 벤치마킹 및 컨셉의도
 - 사전조사
 - 타겟설정
 - 컨셉도출
@@ -65,16 +65,34 @@
 
 <br>
 
-### 3. 타입(UI) 스케치
-- 와이어프래임 제작
-- 스토리보드(UX Design) 제작
-
-<br>
-
-### 4. 브라우저 지원 범위
+### 3. 브라우저 지원 범위
 - [Chrome](https://www.google.com/intl/ko_ALL/chrome/)
 - [Firefox](https://www.mozilla.org/ko/firefox/new/)
 - [IE +](https://support.microsoft.com/ko-kr/help/17621/internet-explorer-downloads)
 
 <br>
 
+### 4. 레이아웃 유형 설정
+- 고정형
+![](https://www.markupbox.com/blog/wp-content/uploads/2015/10/fixed_website_layout.jpg)
+
+<br>
+
+- 유동형
+![](https://www.markupbox.com/blog/wp-content/uploads/2015/10/fluid_website_layout.jpg)
+
+<br>
+
+- 반응형
+![](https://www.markupbox.com/blog/wp-content/uploads/2015/10/adaptive_website_layout.jpg)
+
+<br>
+
+### 4. UI/UX 디자인 기획
+- 와이어프래임 제작
+![](https://cdn.tutsplus.com/webdesign/uploads/legacy/tuts/341_wf/wireframe-bare-webwise.png)
+
+<br>
+
+- 스토리보드(UX Design) 제작
+![](https://cdn.tutsplus.com/webdesign/uploads/legacy/tuts/341_wf/webwise-home-wireframe.png)
