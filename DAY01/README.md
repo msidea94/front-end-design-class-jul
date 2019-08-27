@@ -96,3 +96,24 @@
 
 - 스토리보드(UX Design) 제작
 ![](https://cdn.tutsplus.com/webdesign/uploads/legacy/tuts/341_wf/webwise-home-wireframe.png)
+
+
+## 8/27 수업 정리
+
+- 와이어프레임(기획) -> 스토리보드(기획) -> 디테일 디자인 협의 -> UI kit ->UI kit 을 바탕으로 디자인
+
+- WBS === 전체 스케줄 일정 
+
+- footer 를 복잡하지 않게 
+
+- 12컬럼을 많이 사용한다. 
+
+- 컨텐츠 기준 컬럼설계<br>전체사이즈 기준컬럼 설계
+
+- 컬럼수 - 1 = gutter 
+
+- 전체 1320 180 
+
+- 보기 새안내선 레이아웃 으로 가이드선 설정 
+
+- 와이드 프레임 작성 (모바일 테블릿 pc )
