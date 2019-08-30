@@ -41,6 +41,6 @@
 
 ### 크로스 브라우징 링크
 - [디바이스별로 링크넣어서 확인](http://iloveadaptive.com/url)
-- [전체모바일 점유율](http://screensiz.es/)
+- [pc,tablet,mobile 사이즈 점유율](http://screensiz.es/)
 - [전체 브라우저 점유율](https://netmarketshare.com/)
-- [전체 브라우저 점유율2](https://fontawesome.com/download)
+- [fontawesome 웹폰트](https://fontawesome.com/download)
