@@ -1,0 +1,14 @@
+/* font-size 배율 1.2 line-height 배율 1.6 === 25.6*/
+html, body, h4{font-size: 16px;line-height: 26px;}
+/* 본문폰트기준 line-height 값이 베이스라인이 된다. */
+
+/* h3 font-size 19.2 line-height 28.8*/
+h3{font-size: 18px;line-height:28px }
+/* h2 font-size 23.04 line-height 38.4*/
+h2{font-size: 24px;line-height:38px;}
+/* h1 font-size 27.648 line-height 44.8*/
+h1{font-size: 28px;line-height: 44px;}
+
+/* line-height === font-size * 1.6 */
+
+/*  */
