@@ -25,7 +25,6 @@
 ## 2. 프로그램 설치 및 준비하기
 
 <br>
-
 ### 디자인 툴
 - [x] Adobe Photoshop
 - [x] Adobe Illustrator
