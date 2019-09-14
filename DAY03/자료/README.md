@@ -35,12 +35,11 @@
 - UI kit 만들기 (컬러파레트, 그리드, 타이포그래피, pagination, button, tab, label, icon ) 또 뭐있지?
 
 ## 궁금한것 
-- 베이스라인을 10의 단위로 설정한다고 가정 했을때 사이즈가 정해진 폰트사이즈의 행간 값은 따로 설정해야 하는지? (베이스라인 기준x)
 - UI kit 에서 press 는 click??
 - xeicon photoshop 에서 적용방법? ( fots 폴더에 넣어도 안됨)
-- line-height 와 base-line 따로??? 
+- line-height 와 base-line 따로 설정??? 
 - UI kit.psd 에서 press 뭔지?(click?)
 - UI kit 타이포그래피에서 style 이랑 korean english 폰트 차이? 
 - 포토샵 질문 어떤 box 안에 컨텐츠 여러개 있을때 같은 간격으로 나누는 방법 
-- 포토샵 질문 stroke 지우고 싶은 부분만 없애기 
+- 포토샵 질문 사각형도구로 만들었을때 stroke 지우고 싶은 부분만 없애기 
 
