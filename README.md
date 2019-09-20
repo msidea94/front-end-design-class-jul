@@ -36,18 +36,18 @@
 ## 3일차
 
 ### 그리드시스템 설계
-- [ ] 컬럼 (Columns), 거터 (Gutter), 마진 (Margin)
-- [ ] 그리드시스템 공식
-- [ ] 베이스라인 설정
-- [ ] 레이아웃 중단점 설정 (Breakpoint)
+- [x] 컬럼 (Columns), 거터 (Gutter), 마진 (Margin)
+- [x] 그리드시스템 공식
+- [x] 베이스라인 설정
+- [x] 레이아웃 중단점 설정 (Breakpoint)
 
 <br>
 
 ## 4일차
 
 ### UI Kit 제작
-- [ ] UI 모듈화 (재사용 높은 UI)
-- [ ] 유지보수를 위한 UI Kit
+- [x] UI 모듈화 (재사용 높은 UI)
+- [x] 유지보수를 위한 UI Kit
 
 <br>
 
